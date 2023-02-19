@@ -3,10 +3,10 @@
 using static System.Console;
 Clear();
 
-//int number1 = new Random() .Next(1, 101);
-//int number2 = new Random() .Next(1, 101);
-int number1 = 9;
-int number2 = 81;
+int number1 = new Random() .Next(1, 101);
+int number2 = new Random() .Next(1, 101);
+//int number1 = 625;
+//int number2 = 25;
 WriteLine(number1);
 WriteLine(number2);
 //int result = number1 / number2;
